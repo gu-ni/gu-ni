@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gu-ni
-- 👀 I’m interested in playing the piano
 - 🌱 I’m currently learning a machine learning, recommendation service, and computer vision
 - 💞️ I’m looking to collaborate on a meaningful assignment around the world
 
